@@ -73,7 +73,7 @@ If you answer incorrectly after a Padav, you take home the Padav amount instead 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kbc-python.git
+git clone https://github.com/zensensi/kbc-python.git
 
 # Navigate into the project folder
 cd kbc-python
